@@ -1,11 +1,13 @@
-![Image](https://cdn.pixabay.com/photo/2022/12/02/19/11/sunset-7631487_1280.png)
+<!--![Image](https://cdn.pixabay.com/photo/2022/12/02/19/11/sunset-7631487_1280.png)-->
+
+![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/HeaderReadme02.png)
 
 # Hello 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
 
 
-![Image](./media/dino.gif)
+![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
 
 
 ## What I Know
