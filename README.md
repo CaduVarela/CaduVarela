@@ -1,6 +1,6 @@
 <!--![Image](https://cdn.pixabay.com/photo/2022/12/02/19/11/sunset-7631487_1280.png)-->
 
-![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/HeaderReadme01.png)
+![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/HeaderReadme02.png)
 
 # Hello 👋
 
