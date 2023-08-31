@@ -1,10 +1,16 @@
+![Image](https://cdn.pixabay.com/photo/2022/12/02/19/11/sunset-7631487_1280.png)
+
 # Hello 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
+
+
+![Image](./media/dino.gif)
 
 
 ## What I Know
 
-<h3>Languages and Frameworks:</h3>
+<h3>Languages and Frameworks</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,electron)](https://skillicons.dev)
 
