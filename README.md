@@ -26,4 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,arduino)](https://skillicons.dev)
 
+<p align="center">
+
 ![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
+</p>
