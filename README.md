@@ -6,7 +6,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
 
-![Heart](:heart:)
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
 ![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan")
