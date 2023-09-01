@@ -7,8 +7,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
 
 
-<p>I'm a developer who likes to write good code and hopefully help other people. </p>
-<p>I know I have fun and learn a lot with my projects :D</p>
+<p>I'm a junior developer who likes to write good code and help other people. </p>
+<p>I know I have fun and learn a lot with my projects, hopefully you'll find them useful too :D</p>
 
 ## What I Know
 
