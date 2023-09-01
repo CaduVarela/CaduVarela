@@ -1,6 +1,6 @@
 <!--![Image](https://cdn.pixabay.com/photo/2022/12/02/19/11/sunset-7631487_1280.png)-->
 
-![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/HeaderReadme07.png)
+![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/HeaderReadme03.png)
 
 # Hello 👋
 
@@ -26,7 +26,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,arduino)](https://skillicons.dev)
 
-<p align="center">
-
+# 
 ![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
-</p>
