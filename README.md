@@ -7,8 +7,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
 
 
-![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
-
+<p>I'm a developer who likes to write good code and hopefully help other people. </p>
+<p>I know I have fun and learn a lot with my projects :D</p>
 
 ## What I Know
 
@@ -26,8 +26,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,arduino)](https://skillicons.dev)
 
+![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
+
 ## Stats
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvarela&theme=dracula&hide_langs_below=1" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvarela&theme=dracula&hide_langs_below=1" />
