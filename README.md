@@ -6,6 +6,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caduvarela.caduvarela)
 
+![Heart](:heart:)
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
+![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
+![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan")
+
 
 <p>I'm a junior developer who likes to write good code and help other people. </p>
 <p>I know I have fun and learn a lot with my projects, hopefully you'll find them useful too :D</p>
