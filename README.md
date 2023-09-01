@@ -27,7 +27,3 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,arduino)](https://skillicons.dev)
 
 ![Image](https://github.com/CaduVarela/CaduVarela/blob/main/media/dino.gif)
-
-## Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvarela&theme=dracula&hide_langs_below=1" />
