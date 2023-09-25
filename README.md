@@ -19,13 +19,13 @@
 
 <h3>Languages and Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,sass)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php,mysql)](https://skillicons.dev)
 
 <h3>Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,vscode,git,github,figma)](https://skillicons.dev)
 
 <h3>Other</h3>
 
