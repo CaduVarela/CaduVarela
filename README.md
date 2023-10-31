@@ -19,11 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,sass)](https://skillicons.dev)
 <br> (HTML, CSS, JavaScript, TypeScript, React js, Electron, SASS/SCSS)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,php,nodejs,express)](https://skillicons.dev)
-<br> (MySQL, PostgreSQL, PHP, Node js, Express)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,postgresql,php,nodejs,express)](https://skillicons.dev)
+<br> (Next js, MySQL, PostgreSQL, PHP, Node js, Express)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-<br> (C ANSI, C++, JAVA)
+<br> (ANSI C, C++, JAVA)
 
 <h3>Tools</h3>
 
