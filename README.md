@@ -18,6 +18,7 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 
 ## 🚀 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical)](https://github.com/caduvarela/phpz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical)](https://github.com/caduvarela/phpz)
 
 ---
 
