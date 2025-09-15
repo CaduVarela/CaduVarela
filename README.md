@@ -13,8 +13,14 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 ![Rustacean](https://img.shields.io/badge/Rustacean-🦀-black)
 
 ## 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3600)](https://github.com/caduvarela/phpz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical)](https://github.com/caduvarela/phpz)
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://github.com/caduvarela/phpz">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3000"/>
+  </a>
+  <a href="https://github.com/caduvarela/cansee-ayu">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical&cache_seconds=3000"/>
+  </a>
+</div>
 
 ## 🔧 Tech Stack
 
