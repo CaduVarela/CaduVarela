@@ -12,13 +12,9 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 ![Coffee](https://img.shields.io/badge/Coffee-Fuel-orange?logo=buymeacoffee&logoColor=white)
 ![Rustacean](https://img.shields.io/badge/Rustacean-🦀-black)
 
----
-
 ## 🚀 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3600)](https://github.com/caduvarela/phpz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical)](https://github.com/caduvarela/phpz)
-
----
 
 ## 🔧 Tech Stack
 
@@ -68,12 +64,10 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvarela&layout=compact&theme=radical"/>
 </div>
 
----
+### 🤝 Connect with Me
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caduvarela/)
 [![Email](https://img.shields.io/badge/Email-caduvarela%40gmail.com-red?logo=gmail&logoColor=white)](mailto:caduvarela@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caduvarela/)
 
 ---
 
