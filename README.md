@@ -3,8 +3,6 @@
 **Fullstack Software Engineer**  
 Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 
----
-
 ## 🧑‍💻 About Me
 - 💻 Proficient in **PHP/Laravel**, working with it daily in production  
 - 🔭 Currently building apps with **Laravel + Inertia + React**  
@@ -17,7 +15,7 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 ---
 
 ## 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical)](https://github.com/caduvarela/phpz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3600)](https://github.com/caduvarela/phpz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical)](https://github.com/caduvarela/phpz)
 
 ---
