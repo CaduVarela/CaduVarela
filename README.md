@@ -14,13 +14,14 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 
 ## 🚀 Featured Projects
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://github.com/caduvarela/phpz">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3000"/>
+  <a href="https://github.com/caduvarela/phpz" style="text-decoration:none;">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3000"/>
   </a>
-  <a href="https://github.com/caduvarela/cansee-ayu">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical&cache_seconds=3000"/>
+  <a href="https://github.com/caduvarela/cansee-ayu" style="text-decoration:none;">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical&cache_seconds=3000"/>
   </a>
 </div>
+
 
 ## 🔧 Tech Stack
 
