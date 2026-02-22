@@ -12,16 +12,6 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 ![Coffee](https://img.shields.io/badge/Coffee-Fuel-orange?logo=buymeacoffee&logoColor=white)
 ![Rustacean](https://img.shields.io/badge/Rustacean-🦀-black)
 
-## 🚀 Featured Projects
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://github.com/caduvarela/phpz" style="text-decoration:none;">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=phpz&theme=radical&cache_seconds=3000"/>
-  </a>
-  <a href="https://github.com/caduvarela/cansee-ayu" style="text-decoration:none;">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=caduvarela&repo=cansee-ayu&theme=radical&cache_seconds=3000"/>
-  </a>
-</div>
-
 
 ## 🔧 Tech Stack
 
@@ -64,12 +54,6 @@ Building things with PHP/Laravel, Rust, Node.js, and modern frontend stacks 🚀
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; width: 100%; gap: 8px">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caduvarela&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caduvarela&layout=compact&theme=radical"/>
-</div>
 
 ### 🤝 Connect with Me
 
